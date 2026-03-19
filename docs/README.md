@@ -1,6 +1,6 @@
 ># Full Stack Tech Exam - Readme Template
 
-**Name:** [John Weatherford]
+**Name:** John Weatherford
 
 ## 🔗 Required Links
 
