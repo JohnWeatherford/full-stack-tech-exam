@@ -1,19 +1,19 @@
 ># Full Stack Tech Exam - Readme Template
 
-**Name:** [Your Name Here]
+**Name:** John Weatherford
 
 ## 🔗 Required Links
 
 | Component | Link | 
 |-----------|------|
 | **GitHub Repository** | https://github.com/JohnWeatherford/full-stack-tech-exam | 
-| **GitHub Pages (docs/)** | [https://JohnWeatherford.github.io/your-full-stack-exam/](https://JohnWeatherford.github.io/your-full-stack-exam/) | 
+| **GitHub Pages (docs/)** | [https://JohnWeatherford.github.io/your-full-stack-exam/](https://johnweatherford.github.io/full-stack-tech-exam/) | 
 | **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
 | **Production Server (GCP)** | [http://104.154.29.229](http://104.154.29.229) | 
-| **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
-| **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
-| **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
-| **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
+| **Issue** | [Issue #1](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/1) | 
+| **Pull Request** | [pull #3](https://github.com/JohnWeatherford/full-stack-tech-exam/pull/3) | 
+| **Milestone** | [Milestone #2](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/2) | 
+| **Successful CI/CD Action** | [CI/CD Actions](https://github.com/JohnWeatherford/full-stack-tech-exam/actions/runs/23278710005) | 
 | **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
 
 ---
