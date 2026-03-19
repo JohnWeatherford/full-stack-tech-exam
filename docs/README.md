@@ -10,9 +10,9 @@
 | **GitHub Pages (docs/)** | [https://JohnWeatherford.github.io/your-full-stack-exam/](https://JohnWeatherford.github.io/your-full-stack-exam/) | 
 | **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
 | **Production Server (GCP)** | [http://104.154.29.229](http://104.154.29.229) | 
-| **Issue** | [#1](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/1) | 
+| **Issue** | [Issue #1](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
-| **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
+| **Milestone** | [Milestone #1](https://github.com/JohnWeatherford/full-stack-tech-exam/milestone/1) | 
 | **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
 | **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
 
