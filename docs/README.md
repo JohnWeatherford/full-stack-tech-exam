@@ -12,7 +12,7 @@
 | **Production Server (GCP)** | [http://104.154.29.229](http://104.154.29.229) | 
 | **Issue** | [Issue #1](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
-| **Milestone** | [Milestone #1](https://github.com/JohnWeatherford/full-stack-tech-exam/milestone/1) | 
+| **Milestone** | [Milestone #2](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/2) | 
 | **Successful CI/CD Action** | [https://github.com/your-username/your-repo-name/actions/runs/your-run-id](https://github.com/your-username/your-repo-name/actions/runs/your-run-id) | 
 | **ssh cmd to your gcp** | `ssh -i student-key bcumbie@your.static.external.ip` | 
 
