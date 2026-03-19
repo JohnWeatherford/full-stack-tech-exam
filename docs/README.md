@@ -7,7 +7,7 @@
 | Component | Link | 
 |-----------|------|
 | **GitHub Repository** | https://github.com/JohnWeatherford/full-stack-tech-exam | 
-| **GitHub Pages (docs/)** | [https://JohnWeatherford.github.io/your-full-stack-exam/](https://JohnWeatherford.github.io/your-full-stack-exam/) | 
+| **GitHub Pages (docs/)** | [https://JohnWeatherford.github.io/your-full-stack-exam/](https://johnweatherford.github.io/full-stack-tech-exam/) | 
 | **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
 | **Production Server (GCP)** | [http://104.154.29.229](http://104.154.29.229) | 
 | **Issue** | [Issue #1](https://github.com/JohnWeatherford/full-stack-tech-exam/issues/1) | 
